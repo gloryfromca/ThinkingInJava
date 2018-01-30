@@ -6,5 +6,6 @@ public class FilesForTest {
 	static String zipMac = "/Users/zhanghui/testFileFolder/s.zip";
 	static String s1Mac = "/Users/zhanghui/testFileFolder/s.1";
 	static String s2Mac = "/Users/zhanghui/testFileFolder/s.2";
-
+	static String objectMac = "/Users/zhanghui/testFileFolder/object.out";
+	
 }
