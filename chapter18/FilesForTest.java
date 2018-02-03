@@ -7,5 +7,6 @@ public class FilesForTest {
 	static String s1Mac = "/Users/zhanghui/testFileFolder/s.1";
 	static String s2Mac = "/Users/zhanghui/testFileFolder/s.2";
 	static String objectMac = "/Users/zhanghui/testFileFolder/object.out";
-	
+	static String XMLMac = "/Users/zhanghui/testFileFolder/XMLtest.out";
+
 }
